@@ -26,12 +26,15 @@ The Vintage Car Auction Web Application allows users to browse, bid, and partici
 1. **Clone the Repository**
 
 ![Screenshot 2024-10-08 133219](https://github.com/user-attachments/assets/8cf4f006-50dc-46b9-9262-9b929e329478)
+
 2. **Install Dependencies** Install the required Ruby gems.
 
 ![Screenshot 2024-10-08 133455](https://github.com/user-attachments/assets/33ac8dcb-e9f0-42a4-bf97-87aab98cab66)
+
 3. **Set up the Database** Create and migrate the database.
 
 ![Screenshot 2024-10-08 133611](https://github.com/user-attachments/assets/2fd3a514-d6cb-4927-9893-0310c6bd4674)
+
 4. **Start the Server** Start the Rails server to access the application locally.
 
 ![Screenshot 2024-10-08 133819](https://github.com/user-attachments/assets/94a0e9f6-825a-49b1-9195-f7354d554ea4)
